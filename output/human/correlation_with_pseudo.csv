@@ -1,0 +1,4 @@
+dimension,metrics,n,r,p
+Fidelity,F+Fx,8,0.995647,0.000000
+Attunement,A+Ax,8,0.996177,0.000000
+Veracity,Va+Vr+Vp+Vx,16,0.964575,0.000000
